@@ -6,7 +6,7 @@
 \__/_/ /_/\___/_.___/\___/\___/_/|_|\___/\___/ .___/\___/_/         \__/  \__/  \__/
                                             /_/
 ```
-> 🐝 keeping the hive buzzing zzzzzzzzzzzzz: RF · PCBs · motors · signals
+> 🐝 keeping the hive buzzing zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 ### 🔧 Toolbox
 Altium · LTspice · NanoVNA · ESP32 · Verilog · Python
