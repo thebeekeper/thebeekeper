@@ -25,5 +25,6 @@ Altium · LTspice · ESP32 · Verilog · Python
 ## 🍯 Builds
 
 - **[ESP32-S3 SD Board](https://github.com/thebeekeper/esp32s3-sd-board)**: custom PCB with a 4-bit SDMMC interface
+- **[CAN Throttle Sensor](https://github.com/thebeekeper/can-throttle-sensor)**: STM32 board that sends throttle position over CAN (work in progress)
 - **[x72 CPU](https://github.com/thebeekeper/x72-processor)**: 16-bit processor in Verilog, running on a DE10-Lite FPGA
 - **[RF Lab](https://github.com/thebeekeper/rf-lab)**: small RF boards (attenuators, phase shifters, a detector, a coupler and a SAW device)
