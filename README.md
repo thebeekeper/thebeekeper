@@ -20,10 +20,10 @@ Free and open source (MIT).
 
 ## 🔧 Toolbox
 
-Altium · LTspice · NanoVNA · ESP32 · Verilog · Python
+Altium · LTspice · ESP32 · Verilog · Python
 
 ## 🍯 Builds
 
-- **ESP32-S3 SD Board**: custom PCB with a 4-bit SDMMC interface
-- **x72 CPU**: a simple processor written in Verilog, running on an FPGA
-- **RF Lab**: VNA measurements, antennas, filters
+- **[ESP32-S3 SD Board](https://github.com/thebeekeper/esp32s3-sd-board)**: custom PCB with a 4-bit SDMMC interface
+- **[x72 CPU](https://github.com/thebeekeper/x72-processor)**: 16-bit processor in Verilog, running on a DE10-Lite FPGA
+- **[RF Lab](https://github.com/thebeekeper/rf-lab)**: small RF boards (attenuators, phase shifters, a detector, a coupler and a SAW device)
