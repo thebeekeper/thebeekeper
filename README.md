@@ -6,14 +6,24 @@
 \__/_/ /_/\___/_.___/\___/\___/_/|_|\___/\___/ .___/\___/_/         \__/  \__/  \__/
                                             /_/
 ```
-> 🐝 keeping the hive buzzing zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+### Hi, I'm Bee 🐝
 
-### 🔧 Toolbox
+I design PCBs, poke at RF and signals, and build small tools that keep the hive running.
+
+## ⭐ star-triage
+
+**[star-triage](https://github.com/thebeekeper/star-triage)** is a Claude Code plugin for the repos you star.
+It scans each one for security risks, has Claude review it, writes a short note, and installs the ones you approve.
+Free and open source (MIT).
+
+    /plugin marketplace add thebeekeper/star-triage
+
+## 🔧 Toolbox
+
 Altium · LTspice · NanoVNA · ESP32 · Verilog · Python
 
-### 🍯 Builds
-- **[ESP32-S3 SD Board](link)**: custom PCB with a 4-bit SDMMC interface
-- **[x72 CPU](link)**: simple processor written in Verilog, running on an FPGA
-- **[RF Lab](link)**: VNA measurements, antennas, filters
+## 🍯 Builds
 
-> "If it works the first time, you didn't measure it properly."
+- **ESP32-S3 SD Board**: custom PCB with a 4-bit SDMMC interface
+- **x72 CPU**: a simple processor written in Verilog, running on an FPGA
+- **RF Lab**: VNA measurements, antennas, filters
